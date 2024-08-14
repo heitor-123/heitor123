@@ -1,7 +1,4 @@
 # **Olá eu sou** **heitor**
 
 Eu gosto de:
-Ler
-Desenhar
-Terror
-Filosofia
+Ler, desenhar, terror, filosofia e natureza
